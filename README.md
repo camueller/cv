@@ -51,3 +51,12 @@ Seit der Verfügbarkeit der ersten Android-Handies beschäftige ich mich im Rahm
 #### Arduino / Raspberry Pi
 
 Lange Zeit fiel mir kein sinnvolles Projekt für einen Arduino ein, für das ich mich begeistern konnte, dock irgendwann machte es klick: Für einen Gleitschirmpiloten sind Wetterinformationen essentiell und so habe ich erst eine Wetterstation auf dem Hausdach gebaut, programmiert und installiert und dann eine weitere auf dem Fluplatz unseres Motorschirmvereins. Letztere läuft autark mir Solarstrom und Mobilfunkanbindung. Ursprünglich wollte ich den Arduino auch für mein nächstes Projekt verwenden, einen Gateway zur Integration beliebiger Geräte in eine Smart Home Steuerung. Wegen des größeren Arbeitsspeichers und der Möglichkeit, vorhandene Java-Frameworks zu nutzen, habe ich mich für einen Raspberry Pi entschieden.
+
+### Profile
+
+Eine vollständige Beschreibung meiner bisherigen Projekte ist verfügbar in den Formaten
+- ![PDF](Qualifikationsprofil_Axel_Mueller.pdf)
+- ![Microsoft Word](Qualifikationsprofil_Axel_Mueller.doc)
+
+Die Beschreibung des aktuellen Projektes füge ich jeweils erst zum Ende dieses Projektes hinzu!
+
