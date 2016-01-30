@@ -15,10 +15,7 @@ Auf dieser Seite geht es um meine **freiberufliche Tätigkeit** als
 |Platformen|[Gulp](http://www.gulp.de/Profil/camueller.html) [Freelance.de](https://www.freelance.de/Freiberufler/58749) [Xing](http://www.xing.com/hp/Axel_Mueller4)|
 |**Verfügbarkeit**|**01.07.2016**|
 
-
->*Wie man aus meiner Projekthistorie erkennen kann, entwickle ich Software aus Leidenschaft.*
->*Oft kommt mir dabei mein betriebswirtschaftlicher Background, meine lösungsorientierte Herangehensweise und meine Motivation durch Arbeit im Team zugute.*
-
+**_Wie man an meiner Projekthistorie erkennen kann, entwickle ich Software aus Leidenschaft. Oft kommt mir dabei mein betriebswirtschaftlicher Background, meine lösungsorientierte Herangehensweise und meine Motivation durch Arbeit im Team zugute._**
 
 Obwohl ich mich seit 1999 mit Java/J(2)EE beruflich beschäftige, machte ich mit dem Wechsel in die Freiberuflichkeit im Jahr 2002 aus der Not ein Tugend: Mein damaliger Arbeitgeber beendete seine operativen Tätigkeiten und ich wurde gefragt, ob ich das Projekt weiterführen möchte. Ohne eine solche Situation hätte ich den Schritt in die Selbständigkeit vermutlich nicht gewagt ...
 
@@ -55,8 +52,14 @@ Lange Zeit fiel mir kein sinnvolles Projekt für einen Arduino ein, für das ich
 ### Profile
 
 Eine vollständige Beschreibung meiner bisherigen Projekte ist verfügbar in den Formaten
-- ![PDF](Qualifikationsprofil_Axel_Mueller.pdf)
-- ![Microsoft Word](Qualifikationsprofil_Axel_Mueller.doc)
+- [PDF](Qualifikationsprofil_Axel_Mueller.pdf)
+- [Microsoft Word](Qualifikationsprofil_Axel_Mueller.doc)
 
 Die Beschreibung des aktuellen Projektes füge ich jeweils erst zum Ende dieses Projektes hinzu!
 
+### Referenzen
+
+Damit Sie sich auch ein Bild davon machen können, wie meine Auftraggeber die Zusammenarbeit mit mit eingeschätzt haben, finden sich nachfolgend Referenzen. Leider ist nicht jeder Auftraggeber bereit, Referenzen für Freiberufler zu erstellen.
+
+- [Wincor-Nixdorf](http://www.wincor-nixdorf.com/) ([Referenz Seite1](wincor_referenz_seite1.jpg), [Referenz Seite2](wincor_referenz_seite2.jpg))
+- [GBS Consulting AG](http://web.archive.org/web/20030712001252/http://gbs.ch/index.htm) ([Referenz](gbs_referenz.jpg))
