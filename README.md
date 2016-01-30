@@ -8,8 +8,8 @@ Auf dieser Seite geht es um meine **freiberufliche Tätigkeit** als
 |----|-----------|
 |Geboren|1971|
 |Abschluss|Diplom-Betriebswirt (FH)|
-|Fon|+49-6047-989737|
-|Mobil|+49-177-AXELMUE = +49-177-2935683|
+|Telefon|+49-6047-989737|
+|Mobil|+49-177-2935683|
 |Email|axel.mueller@avanux.de|
 |Web|www.avanux.de|
 |Platformen|[Gulp](http://www.gulp.de/Profil/camueller.html) [Freelance.de](https://www.freelance.de/Freiberufler/58749) [Xing](http://www.xing.com/hp/Axel_Mueller4)|
