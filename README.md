@@ -13,7 +13,7 @@ Auf dieser Seite geht es um meine **freiberufliche Tätigkeit** als
 |Email|axel.mueller@avanux.de|
 |Web|www.avanux.de|
 |Platformen|[Gulp](http://www.gulp.de/Profil/camueller.html) [Freelance.de](https://www.freelance.de/Freiberufler/58749) [Xing](http://www.xing.com/hp/Axel_Mueller4)|
-|**Verfügbarkeit**|**01.04.2017**|
+|**Verfügbarkeit**|**01.01.2018**|
 
 **_Wie man an meiner Projekthistorie erkennen kann, entwickele ich Software aus Leidenschaft. Oft kommt mir dabei mein betriebswirtschaftlicher Background, meine lösungsorientierte Herangehensweise und meine Motivation durch Arbeit im Team zugute._**
 
