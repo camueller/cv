@@ -53,7 +53,7 @@ Lange Zeit fiel mir kein sinnvolles Projekt für einen Arduino ein, doch irgendw
 
 Eine vollständige Beschreibung meiner bisherigen Projekte ist verfügbar in den Formaten
 - [PDF](files/Qualifikationsprofil_Axel_Mueller.pdf)
-- [Microsoft Word](files/Qualifikationsprofil_Axel_Mueller.doc)
+- [Microsoft Word](files/Qualifikationsprofil_Axel_Mueller.docx)
 
 Die Beschreibung des aktuellen Projektes füge ich jeweils erst zum Ende dieses Projektes hinzu!
 
