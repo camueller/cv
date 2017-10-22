@@ -13,7 +13,7 @@ Auf dieser Seite geht es um meine **freiberufliche Tätigkeit** als
 |Email|axel.mueller@avanux.de|
 |Web|www.avanux.de|
 |Platformen|[Gulp](http://www.gulp.de/Profil/camueller.html) [Freelance.de](https://www.freelance.de/Freiberufler/58749) [Xing](http://www.xing.com/hp/Axel_Mueller4)|
-|**Verfügbarkeit**|**01.01.2018**|
+|**Verfügbarkeit**|**01.12.2017**|
 
 **_Wie man an meiner Projekthistorie erkennen kann, entwickele ich Software aus Leidenschaft. Oft kommt mir dabei mein betriebswirtschaftlicher Background, meine lösungsorientierte Herangehensweise und meine Motivation durch Arbeit im Team zugute._**
 
@@ -63,3 +63,8 @@ Damit Sie sich auch ein Bild davon machen können, wie meine Auftraggeber die Zu
 
 - [Wincor-Nixdorf](http://www.wincor-nixdorf.com/) ([Referenz Seite1](files/wincor_referenz_seite1.jpg), [Referenz Seite2](files/wincor_referenz_seite2.jpg))
 - [GBS Consulting AG](http://web.archive.org/web/20030712001252/http://gbs.ch/index.htm) ([Referenz](files/gbs_referenz.jpg))
+
+### Weiterbildung
+
+Im Wesentlichen findet Weiterbildung meist on-the-job statt, indem man sich in Themen einarbeitet oder sein Wissen vertieft, um die gestellten Aufgaben lösen zu können. Ab und zu gibt es aber auch explizite Weiterbildungsmaßnahmen:
+- [SCRUM Schulung](files/scrum_schulung.jpg)
