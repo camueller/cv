@@ -1,6 +1,6 @@
 Auf dieser Seite geht es um meine **freiberufliche Tätigkeit** als
 
-### Berater/Entwickler für Enterprise-Systeme auf Basis von Java/JEE/Android
+### Erfahrener Fullstack-Entwickler (Java / Angular/ Android)
 
 ![Axel Müller](files/axel_mueller_20130810.jpg)
 
@@ -13,7 +13,7 @@ Auf dieser Seite geht es um meine **freiberufliche Tätigkeit** als
 |Email|axel.mueller@avanux.de|
 |Web|www.avanux.de|
 |Platformen|[Gulp](http://www.gulp.de/Profil/camueller.html) [Freelance.de](https://www.freelance.de/Freiberufler/58749) [Xing](http://www.xing.com/hp/Axel_Mueller4)|
-|**Verfügbarkeit**|**01.09.2020**|
+|**Verfügbarkeit**|**01.10.2020**|
 
 **_Wie man an meiner Projekthistorie erkennen kann, entwickele ich Software aus Leidenschaft. Oft kommt mir dabei mein betriebswirtschaftlicher Background, meine lösungsorientierte Herangehensweise und meine Motivation durch Arbeit im Team zugute._**
 
@@ -25,17 +25,13 @@ Am Beginn meiner freiberuflichen Aktivitäten stand die Suche nach einem Namen, 
 
 In meinen bisherigen Projekten war es oft so, daß ich neben den **typischen Entwicklungstätigkeiten** durch mein Know-How bestimmte Aspekte des **Entwicklungsprozesses** und der **Entwicklungsumgebung** maßgeblich prägen konnte, was wiederum dazu geführt hat, dass ich mein Know-How in diesen Bereichen weiter vertiefen konnte.
 
-#### Build-Automatisierung/platformunabhängige Entwicklungsumgebungen
+#### Build-Automatisierung
 
-Die Gestaltung von Entwicklungsumgebungen hat erheblichen Einfluß auf die Effizienz und die Motivation der beteiligten Entwickler. Aus meiner Erfahrung kann ich sagen, daß die Automatisierung oft unzureichend ist und nicht adäquat zur Team-Größe ist. Auch der Aspekt der Platform-Unabhängigkeit, die durch Java/J(2)EE eigentlich gegeben ist, wird durch suboptimale Entwicklungsumgebungen unnötig geschwächt. In meinen bisherigen Projekten hatten wir spätestens in den letzten Projektphasen heterogene Build- und Testumgebungen, weshalb es sich bewährt hat, dass ich bereits in den frühen Projektphasen Wert auf eine platformunabhängige Build- und Testumgebung Wert gelegt hatte.
+Die Gestaltung von Entwicklungsumgebungen hat erheblichen Einfluß auf die Effizienz und die Motivation der beteiligten Entwickler. Aus meiner Erfahrung kann ich sagen, daß die Automatisierung oft unzureichend ist und nicht adäquat zur Team-Größe ist.
 
-#### Test-Automatisierung (Continuous Integration)
+#### Test-Automatisierung / CI/CD
 
-Es erstaunt mich immer wieder, wenn in Projekten das Erstellen und automatisierte Ausführen von Tests als verzichtbarer (angeblich zu aufwendiger) Luxus dargestellt wird. Auch hier hängt die Motivation der Entwickler hauptsächlich davon ab, daß der Aufwand zur Testerstellung und -ausführung möglichs gering ist z.B. durch Anpassung von Standard-Testframeworks an die technische Architektur und Platform. Eine automatisierte Testumgebung, die unabhängig von der Entwicklungsgebung sein sollte, gibt den Entwicklern automatisch zeitnahes Feedback über die Testergebnisse. Das führt mit steigenender Testabdeckung (die natürlich überwacht wird) zu einer deutlichen Qualitäts- und Effizienzsteigerung.
-
-#### Performance-Tests / Profiling
-
-In den meisten Enterprise-Projekten geniessen in der Anfangsphase funktionale Aspekte die höchste Priorität, weil meist unterstellt wird, daß die eigene Anwendung skaliert, weil ja man schließlich auf einer skalierenden Platform aufsetzt. Die Ernüchterung kommt dann in den späteren Projektphasen, wenn erste Tests zeigen, daß sich die Performance-Anforderungen des Kunden so nicht erfüllen lassen. Um diese Situation zu vermeiden, ist die Erstellug eines Konzeptes zur kontinuierlichen Messung der Performance relevanter Business-Transaktionen unerlässlich. Darauf aufbauend muß eine Umgebung mit entsprechenden Tools aufgebaut werden, die - idealerweise ebenfalls automatisiert - die aktuellen Performance-Zahlen liefert. Der Einsatz eines klassischen Profiling-Tools zur Analyse von Performance-Bottlencks ist meiner Erfahrung nach in Enterprise-Projekten nicht praktikabel.
+Es erstaunt mich immer wieder, wenn in Projekten das Erstellen und automatisierte Ausführen von Tests als verzichtbarer (angeblich zu aufwendiger) Luxus dargestellt wird. Auch hier hängt die Motivation der Entwickler hauptsächlich davon ab, dass der Aufwand zur Testerstellung und -ausführung möglichst gering ist z.B. durch Anpassung von Standard-Testframeworks an die technische Architektur und Platform. Eine automatisierte Testumgebung, die unabhängig von der Entwicklungsgebung sein sollte, gibt den Entwicklern automatisch zeitnahes Feedback über die Testergebnisse. Das führt mit steigenender Testabdeckung (die natürlich überwacht wird) zu einer deutlichen Qualitäts- und Effizienzsteigerung und ist Voraussetzung für die Erweiterung von CI zu CI/CD.
 
 #### Modellgetriebene Softwarentwicklung
 
@@ -45,9 +41,9 @@ In den letzten Jahren gab es signifikante Fortschritte im Bereich der modellgetr
 
 Seit der Verfügbarkeit der ersten Android-Handies beschäftige ich mich im Rahmen von eigenen und auch Kundenprojekten mit Android, weil diese Platform perfekt für mobile Terminals von Enterprise-Anwendungen geeignet ist.
 
-#### Arduino / Raspberry Pi
+#### Raspberry Pi
 
-Lange Zeit fiel mir kein sinnvolles Projekt für einen Arduino ein, doch irgendwann kam mir die zündende Idee: Für einen Gleitschirmpiloten sind Wetterinformationen essentiell und so habe ich zunächst eine Wetterstation auf dem Hausdach gebaut, programmiert und installiert. Eine weitere [Wetterstation mit solarer Stromversorgung und Mobilfunkanbindung](https://github.com/camueller/WeatherStation-Wunderground-GSM/blob/master/README_DE.md) habe ich programmiert und auf dem Fluplatz unseres Motorschirmvereins installiert. Ursprünglich wollte ich den Arduino auch für mein nächstes Projekt verwenden, einen [Gateway zur Integration beliebiger Geräte in eine Smart Home Steuerung](https://github.com/camueller/SmartApplianceEnabler/blob/master/README_DE.md). Wegen des größeren Arbeitsspeichers und der Möglichkeit, vorhandene Java-Frameworks zu nutzen, habe ich mich für einen Raspberry Pi entschieden.
+Als Platform für Smart-Home-Anwendungen bietet sich der Raspberry Pi mit seinen GPIO-Ports an und ich nutze ihn für den von mir als Open-Source-Projekt entwickelten [Smart Appliance Enabler](https://github.com/camueller/SmartApplianceEnabler). Durch die zunehmende Verbreitung von E-Auto gewinnt das Projekt zusätzlich stark an Attraktivität.
 
 ### Profile
 
