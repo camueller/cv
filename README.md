@@ -45,8 +45,8 @@ Als Platform für Smart-Home-Anwendungen bietet sich der Raspberry Pi mit seinen
 
 Damit Sie sich auch ein Bild davon machen können, wie meine Auftraggeber die Zusammenarbeit mit mit eingeschätzt haben, finden sich nachfolgend Referenzen. Leider ist nicht jeder Auftraggeber bereit, Referenzen für Freiberufler zu erstellen.
 
-- [Wincor-Nixdorf](http://www.wincor-nixdorf.com/) ([Referenz Seite1](files/wincor_referenz_seite1.jpg), [Referenz Seite2](files/wincor_referenz_seite2.jpg))
-- [GBS Consulting AG](http://web.archive.org/web/20030712001252/http://gbs.ch/index.htm) ([Referenz](files/gbs_referenz.jpg))
+- Wincor-Nixdorf [PDF](files/Referenz_WincorNixdorf.pdf)
+- GBS Consulting AG [PDF](files/Referenz_GBS.pdf)
 
 ### Weiterbildung
 
